@@ -19,9 +19,12 @@ Lightning Talks
 ### Day 2
 | Topics | Speakers | Slides | Videos |
 | ------ | ------ | ------ | ------ |
-| React Ecosystem | Ben Ilegbodu | [slides](http://www.benmvp.com/slides/2019/reactathon/react-eco.html) | |
-| State of Redux | Mark Erikson | [slides](https://blog.isquaredsoftware.com/presentations/2019-03-state-of-redux/#/) | |
+| The State of React Ecosystem | Ben Ilegbodu | [slides](http://www.benmvp.com/slides/2019/reactathon/react-eco.html) | |
+| The State of Redux | Mark Erikson | [slides](https://blog.isquaredsoftware.com/presentations/2019-03-state-of-redux/#/) | |
+| Reactive Data on the Full Stack| Eric Vicenti| N/A | |
 | Design Systems in React| Emily Plummer | [slides](https://docs.google.com/presentation/d/1ku4BysY6k1bCgZEp0Qp42ihIRixBsKSvHnOPzs4kUM4/edit)| |
 | Babel Macros | Jesse Tomchak | [slides](https://transform-for-good.netlify.com/#cuts_29-05_chat) | |
 | Type Safe Forms | Zach Gotsch | [slides](https://docs.google.com/presentation/d/1aTsmZ28A8pa4XKDRHsCp1mUM86J1LX75dEOxl721_2Y/edit) | |
 | React Fiber Walkthrough | Jenn Creighton | [slides](https://speakerdeck.com/jenncreighton/everything-i-know-about-react-i-learned-from-twitter)| |
+| We're gunna program like it's 1999 | Lee Byron | N/A | |
+|Syntax.fm Live!|Wes Bos, Scott Tolinski|N/A|[video](https://youtu.be/keynw6xAsqo)|
