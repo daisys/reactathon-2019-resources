@@ -1,11 +1,11 @@
 # Reactathon 2019 Resources
 
-Below you can find a list of talk along with its speakers, slides, and videos of Reactathon 2019.
+Below you can find a list of talks along with their speakers, slides, and videos of Reactathon 2019.
 
 ### Day 1
 
-Lightening Talk
-> If you want to view all the Lightening Talk all at once, here is the Youtube [link](https://youtu.be/Wt4kuspJIxY).
+Lightning Talks
+> If you want to view all the Lightning Talks all at once, here is the Youtube [link](https://youtu.be/Wt4kuspJIxY).
 
 | Topics | Speakers | Slides | Videos |
 | ------ | ------ | ------ | ------ |
