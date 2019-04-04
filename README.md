@@ -17,6 +17,9 @@ Lightning Talks
 | Redux-style backends with GraphQL & Serverless Functions | Tanmai Gopal | N/A |[1:06:13](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=3973s)|
 
 ### Day 2
+
+Full Day Video here: https://www.youtube.com/watch?v=mtjHxwUQUs0
+
 | Topics | Speakers | Slides | Videos |
 | ------ | ------ | ------ | ------ |
 | React Ecosystem | Ben Ilegbodu | [slides](http://www.benmvp.com/slides/2019/reactathon/react-eco.html) | |
