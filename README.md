@@ -9,12 +9,12 @@ Lightening Talk
 
 | Topics | Speakers | Slides | Videos |
 | ------ | ------ | ------ | ------ |
-| Renderless components, Now with 9000% more hooks | Ken Wheeler | [slides]()|[4:31](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=271s)|
+| Renderless components, Now with 9000% more hooks | Ken Wheeler | N/A |[4:31](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=271s)|
 | A11Y & Accessibility | Jen Luker |[slides](https://www.jenluker.com/5AccessibilityMyths/) |[17:52](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=1072s)|
-| 10 Things About WebAssembly You Need To Know | Jay Phelps | [slides]()|[29:31](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=1771s)|
-| Move over Electron - Native-compiled React for the Desktop with ReasonML | Jared Forsyth | [slides]()|[44:05](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=2645s)|
+| 10 Things About WebAssembly You Need To Know | Jay Phelps | N/A |[29:31](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=1771s)|
+| Move over Electron - Native-compiled React for the Desktop with ReasonML | Jared Forsyth | N/A |[44:05](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=2645s)|
 | Getting Closure on Hooks| Shawn Swyx Wang | [slides](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)|[53:55](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=3235s)|
-| Redux-style backends with GraphQL & Serverless Functions | Tanmai Gopal | [slides]()|[1:06:13](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=3973s)|
+| Redux-style backends with GraphQL & Serverless Functions | Tanmai Gopal | N/A |[1:06:13](https://www.youtube.com/watch?v=Wt4kuspJIxY&t=3973s)|
 
 ### Day 2
 | Topics | Speakers | Slides | Videos |
